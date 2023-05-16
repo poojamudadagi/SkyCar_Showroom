@@ -1,0 +1,99 @@
+.header{
+	margin: 0px;
+	height: 130px;
+	width: 1250px;
+	background-color: blue;
+}
+ul{
+	display: flex;
+	justify-content:space-around;
+	font-size: 20px;
+	padding: 10px;
+}
+h1{
+	font-size: 35px;
+	font-family: sans-serif;
+	color: white;
+	text-align: center;
+}
+a{
+	color: black;
+}
+a:hover{
+	color: red;
+
+}
+img{
+	height: 550px;
+	width: 1235px;
+}
+.footer{
+	height: 90px;
+	width: 1235px;
+	background-color: blue;
+	padding: 20px;
+	text-align: center;
+	font-color:white;
+
+
+}
+h2{
+	font-family: cursive;
+	padding: 10px;
+}
+.head{
+	background-image: url('https://stimg.cardekho.com/images/carexteriorimages/630x420/Volvo/XC-90/9468/1676370898732/front-left-side-47.jpg?impolicy=resize&imwidth=480'); background-repeat: no-repeat;background-size: cover;
+}
+.new-cars{
+	display: inline-grid;
+	grid-template-columns: auto auto auto;
+	grid-gap: 10px;
+
+}
+.head1 h3{
+	text-align: center;
+	color: white;
+	background-color: green;
+	font-family: cursive;
+}
+.new-cars div{
+	text-align: center;
+	color: green;
+}
+form{
+	padding-left: 500px;
+	margin-top: 30px;
+	display: grid;
+	grid-template-columns: auto;
+	text-align: center;
+	width: 200px;
+}
+
+button{
+		margin-left: 560px;
+		background-color: blue;
+		color: white;
+}
+.feedback h1{
+	color: black;
+	font-family: verdana;
+
+}
+.feedback{
+	text-align: center;
+	background-image: url('https://c4.wallpaperflare.com/wallpaper/29/1013/318/black-car-car-mercedes-benz-mercedes-wallpaper-preview.jpg');
+	height: 500px;
+	width: 1300px;
+}
+
+textarea{
+	text-align: center;
+	align-content: center;
+	padding: 20px;
+}
+.form{
+	padding: 20px;
+	color: white;
+	background-image: url('https://wallpapercrafter.com/sizes/2560x1440/74850-bmw-cars-artist-artwork-digital-art-hd-4k-artstation.jpg'); background-repeat: no-repeat;background-size: cover;
+	height: 600px;
+}
